@@ -770,6 +770,12 @@ For support and questions:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 🏗️ System Architecture Diagram
+
+![Patty Palace Architecture](./diagram.svg)
+
+*Complete system architecture showing microservices, data flow, and infrastructure components*
+
 ---
 
 **Built with ❤️ by the Patty Palace Team**
